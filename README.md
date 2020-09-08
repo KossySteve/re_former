@@ -7,8 +7,8 @@ This is a microverse rails project to to work with HTML forms and form helper me
  
 
 ## Built With
-Ruby on Rails
-VsCode
+Ruby on Rails 
+VsCode 
 Active Records
 
 ## Getting Started
