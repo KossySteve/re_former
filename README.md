@@ -1,4 +1,4 @@
-## reddit_clone
+## re_former
 This is a microverse rails project to to work with HTML forms and form helper methods in rails.
 
 ## Code execution view:
