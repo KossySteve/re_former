@@ -3,7 +3,7 @@ This is a microverse rails project to to work with HTML forms and form helper me
 
 ## Code execution view:
 
-![screenshot](./post.png)
+![screenshot](./db_screenshot.PNG)
  
 
 ## Built With
