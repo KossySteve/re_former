@@ -16,8 +16,8 @@ To get a local copy up and running follow these simple example steps:
 
 ```
 Clone this repository into your local machine.
-https://github.com/KossySteve/redditt_clone.git
-cd redditt_clone
+https://github.com/KossySteve/re_former.git
+cd re_former
 git checkout development
 
 ```
