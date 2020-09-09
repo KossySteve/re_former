@@ -1,4 +1,4 @@
-<h1>Edit your any of your details</h1>
+<h1>Edit any of your details</h1>
 
 <% if @user.errors.any? %>
         <h3> Your details may have the following erros such as</h3>
@@ -20,7 +20,7 @@
     </p>
     <p>
         <%= f.label :password %><br/>
-        <%= f.text_field :password%>
+        <%= f.password_field :password%>
     </p>
     <p>
         <%= f.submit%>
